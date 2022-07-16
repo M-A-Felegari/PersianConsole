@@ -1,0 +1,12 @@
+C:\Users\Alien\source\repos\_Packs\PersianConsole\PersianConsole\bin\Debug\net6.0\PersianConsole.deps.json
+C:\Users\Alien\source\repos\_Packs\PersianConsole\PersianConsole\bin\Debug\net6.0\PersianConsole.dll
+C:\Users\Alien\source\repos\_Packs\PersianConsole\PersianConsole\bin\Debug\net6.0\PersianConsole.pdb
+C:\Users\Alien\source\repos\_Packs\PersianConsole\PersianConsole\obj\Debug\net6.0\PersianConsole.csproj.AssemblyReference.cache
+C:\Users\Alien\source\repos\_Packs\PersianConsole\PersianConsole\obj\Debug\net6.0\PersianConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alien\source\repos\_Packs\PersianConsole\PersianConsole\obj\Debug\net6.0\PersianConsole.AssemblyInfoInputs.cache
+C:\Users\Alien\source\repos\_Packs\PersianConsole\PersianConsole\obj\Debug\net6.0\PersianConsole.AssemblyInfo.cs
+C:\Users\Alien\source\repos\_Packs\PersianConsole\PersianConsole\obj\Debug\net6.0\PersianConsole.csproj.CoreCompileInputs.cache
+C:\Users\Alien\source\repos\_Packs\PersianConsole\PersianConsole\obj\Debug\net6.0\PersianConsole.dll
+C:\Users\Alien\source\repos\_Packs\PersianConsole\PersianConsole\obj\Debug\net6.0\refint\PersianConsole.dll
+C:\Users\Alien\source\repos\_Packs\PersianConsole\PersianConsole\obj\Debug\net6.0\PersianConsole.pdb
+C:\Users\Alien\source\repos\_Packs\PersianConsole\PersianConsole\obj\Debug\net6.0\ref\PersianConsole.dll
